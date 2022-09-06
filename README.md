@@ -1,2 +1,3 @@
 # smart-face-api
-A Face Recognition Back End Server
+Back End Server
+For smart-face-web
